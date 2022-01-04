@@ -1,5 +1,7 @@
 # Analyzing 10Gb of Yelp Reviews Data
 
+Access 10 GB of Yelp Reviews data stored in AWS S3 bucket and then use PySpark on a Jupyter Notebook hosted on a AWS EMR Cluster to analyze and create effective visualizations
+
 In this project, we will analyze a subset of Yelp's business, reviews and user data. This dataset comes to us from [Kaggle](https://www.kaggle.com/yelp-dataset/yelp-dataset) stored in an AWS s3 bucket: `s3://sta9760-spark-yelp1/*.json`
 
 ## Analysis
